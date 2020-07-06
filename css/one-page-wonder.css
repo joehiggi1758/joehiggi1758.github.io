@@ -163,7 +163,7 @@ header.masthead .bg-circle-4 {
 
 /* Container holding the image and the text */
 .container {
-  position: left;
+  position: relative;
   text-align: center;
   color: white;
 }
