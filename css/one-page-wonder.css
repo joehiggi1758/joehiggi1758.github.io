@@ -100,7 +100,7 @@ header.masthead .bg-circle {
 }
 
 .bg-primary {
-  background-color: #ee0979 !important;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
 }
 
 .btn-primary {
@@ -148,11 +148,13 @@ header.masthead .bg-circle {
   transform: translate(-50%, -50%);
 }
 
-.bg-primary {
-  background-color: #ee0979!important;
-}
-
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
+}
+
+.columns{
+  float: left;
+  position: relative;
+  margin-right: 20px;
 }
