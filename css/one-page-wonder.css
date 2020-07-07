@@ -147,3 +147,12 @@ header.masthead .bg-circle {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.bg-primary {
+  background-color: #ee0979!important;
+}
+
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
